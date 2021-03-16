@@ -21,7 +21,7 @@
 // DEALINGS IN THE SOFTWARE.
 {
   "name": "Github Light Theme",
-  "type": "light",
+  "type": "light, with borders",
   "colors": {
     // base color
     "focusBorder": "#f0f0f000",
@@ -29,14 +29,15 @@
     "editor.background": "#f0f0f0",
     "editor.foreground": "#000000",
     "scrollbar.shadow": "#f0f0f0",
+    "window.activeBorder": "#ff4542",
     // activity bar
     "activityBar.border": "#f0f0f0",
-    "activityBar.background": "#f0f0f0",
+    "activityBar.background": "#e9e9e9",
     "activityBar.foreground": "#000000",
     "activityBarBadge.background": "#d73a49",
     // status bar
     "statusBar.border": "#f0f0f0",
-    "statusBar.background": "#f0f0f0",
+    "statusBar.background": "#6b8ec6",
     "statusBar.foreground": "#000000",
     "statusBar.noFolderBackground": "#f0f0f0",
     "statusBar.noFolderForeground": "#000000",
@@ -53,7 +54,7 @@
     "tab.activeBorder": "#d73a49",
     // side bars
     "sideBar.border": "#f0f0f0",
-    "sideBar.background": "#f0f0f0",
+    "sideBar.background": "#ededed",
     "sideBar.foreground": "#000000",
     "sideBarSectionHeader.background": "#f0f0f0",
     // list
@@ -91,7 +92,7 @@
     "button.foreground": "#f0f0f0",
     // titlebar
     "titleBar.border": "#f0f0f0",
-    "titleBar.activeBackground": "#f0f0f0",
+    "titleBar.activeBackground": "#e9e9e9",
     "titleBar.activeForeground": "#000000",
     "titleBar.inactiveBackground": "#f0f0f0",
     "titleBar.inactiveForeground": "#000000",
